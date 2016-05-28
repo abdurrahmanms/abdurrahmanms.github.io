@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+title: SISTEM INFORMASI
+excerpt: "suatu sistem yang menyediakan informasi untuk manajemen pengambilan keputusan/kebijakan dan menjalankan operasional dari kombinasi orang-orang, teknologi informasi dan prosedur-prosedur yang terorganisasi."
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
