@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Author Override"
+title: "UIN SUSKA RIAU"
 author: billy_rick
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "kelembagaan perguruan tinggi yang terdiri atas fakultas-fakultas, dan masing-masing fakultas mempunyai jurusan-jurusan atau program studi yang beragam."
 tags: []
 ---
 
