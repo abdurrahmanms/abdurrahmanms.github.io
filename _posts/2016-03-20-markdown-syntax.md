@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown Syntax"
+title:  "FAKULTAS"
 date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Sains dan Teknologi."
 tag:
 - markdown 
 - syntax
