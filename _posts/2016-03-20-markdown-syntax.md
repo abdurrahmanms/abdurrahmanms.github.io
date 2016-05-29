@@ -2,7 +2,7 @@
 layout: post
 title:  "FAKULTAS"
 date:   2016-03-15
-excerpt: "Sains dan Teknologi."
+excerpt: "Sains Dan Teknologi."
 tag:
 - markdown 
 - syntax
