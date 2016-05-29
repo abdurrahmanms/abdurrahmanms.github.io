@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "MathJax Example"
+title:  "ALAMAT"
 date:   2015-08-10
-excerpt: "MathJax Example for Moon Jekyll Theme."
+excerpt: "Jln. Subrantas."
 tag:
 - markdown 
 - mathjax
