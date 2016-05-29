@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "HOME"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Selamat Datang Di UIN SUSKA RIAU."
 project: true
 tag:
 - jekyll 
