@@ -15,7 +15,7 @@ sass:
   sass_dir: _sass
   style: compressed
 gems:
-  - 2014-11-30-mediator_features.markdown
+  - mediator_features.markdown
 
 kramdown:
   auto_ids: true
