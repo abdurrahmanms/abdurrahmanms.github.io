@@ -7,7 +7,7 @@ tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-#Mediator Formats and CSS features
+#hobi saya bermain bola saya sangat senang bermain bola karena bermain bola saya bersemangat untuk hidup. menjadi pemain bola terkenal adalah impian saya dari kecil.saya terinspirasi dengan pemain bola yang bernama Cristian Ronaldo yang bergabung bersama tim kebanggaan Real Madrid karena saya sangat suka dengan cara bermainnya yang cepat dengan akurasi.
 
 Examples for different formats and css features
 
